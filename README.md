@@ -1,8 +1,8 @@
 # WHERE DOES MY MONEY GO ?  天草版
 
-http://spending.jp/
+amakusa-spendingjp.github.io
 
-Editor: @1shiharaT
+Team for Amakusa: 石原　隆志 @1shiharaT
 
 Core Team: (@は Twitter Account)
 
