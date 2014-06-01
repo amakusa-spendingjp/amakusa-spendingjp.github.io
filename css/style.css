@@ -273,4 +273,55 @@ footer a, footer a:hover {
     padding-left: 5%;
     padding-right: 5%;
   }
+  #db-topbar{
+    overflow: hidden !important;
+    height: auto !important;
+  }
+  .layout-col{
+    width: 100% !important;
+    text-align: center !important;
+  }
+  .db-area-col{
+    width: 32.9% !important;
+    margin-bottom: 10px;
+  }
+  #bubbletree{
+    max-width: 100%;
+    height: 300px;
+  }
+  .row .bubbletree-wrapper{
+    height: auto;
+  }
+  [class*="span"]{
+    max-width: 94.4% !important;
+  }
+  .page-header{
+    font-size: 14px;
+    padding-left: 0.9em;
+    padding-right: 0.9em;
+  }
+  .span10.centered-block,
+  p{
+    font-size: 13px;
+  }
+  iframe{
+    max-width: 94.4%;
+  }
+  .nav.nav-tabs li{
+    width: 48.9% !important;
+    text-align: center;
+    font-size: 12px;
+  }
+  #claim{
+    font-size: 16px !important;
+  }
+  #db-salary{
+    margin-bottom: 1em;
+  }
+  #db-slider{
+    margin-bottom: 1em;
+  }
+  #db-tax{
+    margin-bottom: 1em;
+  }
 }
