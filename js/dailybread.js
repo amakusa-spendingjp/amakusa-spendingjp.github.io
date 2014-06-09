@@ -147,7 +147,7 @@ OpenSpending.DailyBread = function (elem) {
                 "  </div>" +
                 "<% }); %>" +
                 "</div>" +
-                "<div class='db-area-row'>" +
+                "<div class='db-area-row db-area-symbols'>" +
                 "<% _.each(areas, function(area, idx) { %>" +
                 "  <div class='db-area-col' style='width: <%= width %>%;' data-db-area='<%= idx %>'>" +
                 "    <div class='db-area-icon' data-svg-url='<%= icons[idx] %>'></div>" +
