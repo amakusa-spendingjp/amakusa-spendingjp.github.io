@@ -285,6 +285,37 @@ footer a, footer a:hover {
     width: 32.9% !important;
     margin-bottom: 10px;
   }
+  .db-area-row{
+    position: relative;
+  }
+  .db-tier{
+    position: relative;
+
+  }
+  .db-area-row.db-area-symbols{
+    position: absolute;
+    top: 0;
+  }
+  .db-area-row.db-area-symbols .db-area-col{
+    margin-top: 15px;
+    height: 130px;
+  }
+  .db-area-col[data-db-area="9"],
+  .db-area-col[data-db-area="10"],
+  .db-area-col[data-db-area="11"]{
+    margin-top: 0 !important;
+  }
+  .db-area-col.db-area-title[data-db-area="9"],
+  .db-area-col.db-area-title[data-db-area="10"],
+  .db-area-col.db-area-title[data-db-area="11"]{
+    margin-top: 10px !important;
+  }
+  .db-tier[data-db-tier="1"] .db-area-row .db-area-col{
+    width: 100% !important;
+  }
+  .db-area-title{
+    height: 136px;
+  }
   #bubbletree{
     max-width: 100%;
     height: 300px;
